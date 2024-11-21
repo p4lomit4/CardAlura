@@ -1,7 +1,7 @@
 criaCartao(
     'Curiosidades Cinema',
     'Quem inventou o cinema?',
-    'Os irmãos franceses Auguste e Louis Lumière, que, no século XIX, criaram o cinematógrafo – uma máquina que funcionava como câmera filmadora e equipamento de projeção. Em 1895, a dupla fez a primeira exibição do aparelho ao público em Paris, na França'
+    'Os irmãos franceses Auguste e Louis Lumière, que, no século XIX, criaram o cinematógrafo – uma máquina que funcionava como câmera filmadora e equipamento de projeção.'
 )
 
 criaCartao(
